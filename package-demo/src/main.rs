@@ -1,6 +1,8 @@
-use package_demo::front_of_house;
+use package_demo::house;
+
 
 fn main() {
-   let t =  front_of_house::House::NewTest2(10,20);
+   let t =  house::House::NewTest2(10,20);
     println!("{}",t.Add())
+
 }

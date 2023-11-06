@@ -1,3 +1,4 @@
+// pub mod room;
 pub struct House {
     width:i32,
     height:i32
