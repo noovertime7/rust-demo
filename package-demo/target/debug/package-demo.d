@@ -1,0 +1,1 @@
+/Users/admin/code/rust-demo/package-demo/target/debug/package-demo: /Users/admin/code/rust-demo/package-demo/src/front_of_house.rs /Users/admin/code/rust-demo/package-demo/src/lib.rs /Users/admin/code/rust-demo/package-demo/src/main.rs
