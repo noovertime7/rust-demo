@@ -1,0 +1,1 @@
+E:\code\rust-demo\package-demo2\target\debug\package-demo2.exe: E:\code\rust-demo\package-demo2\src\house\house.rs E:\code\rust-demo\package-demo2\src\house\mod.rs E:\code\rust-demo\package-demo2\src\house\room.rs E:\code\rust-demo\package-demo2\src\lib.rs E:\code\rust-demo\package-demo2\src\main.rs

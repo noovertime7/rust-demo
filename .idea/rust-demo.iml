@@ -8,12 +8,14 @@
       <sourceFolder url="file://$MODULE_DIR$/package-demo2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/struct-demo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/trait-demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iodemo/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/enum-demo/target" />
       <excludeFolder url="file://$MODULE_DIR$/option-demo/target" />
       <excludeFolder url="file://$MODULE_DIR$/package-demo/target" />
       <excludeFolder url="file://$MODULE_DIR$/package-demo2/target" />
       <excludeFolder url="file://$MODULE_DIR$/struct-demo/target" />
       <excludeFolder url="file://$MODULE_DIR$/trait-demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/iodemo/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
